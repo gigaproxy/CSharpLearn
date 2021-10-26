@@ -1,0 +1,16 @@
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\bin\Debug\net5.0\CSharpLearn.exe
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\bin\Debug\net5.0\CSharpLearn.deps.json
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\bin\Debug\net5.0\CSharpLearn.runtimeconfig.json
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\bin\Debug\net5.0\CSharpLearn.runtimeconfig.dev.json
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\bin\Debug\net5.0\CSharpLearn.dll
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\bin\Debug\net5.0\ref\CSharpLearn.dll
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\bin\Debug\net5.0\CSharpLearn.pdb
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\CSharpLearn.csproj.AssemblyReference.cache
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\CSharpLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\CSharpLearn.AssemblyInfoInputs.cache
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\CSharpLearn.AssemblyInfo.cs
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\CSharpLearn.csproj.CoreCompileInputs.cache
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\CSharpLearn.dll
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\ref\CSharpLearn.dll
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\CSharpLearn.pdb
+C:\Users\iamgi\Downloads\CSharpLearn-master\CSharpLearn-master\CSharpLearn\obj\Debug\net5.0\CSharpLearn.genruntimeconfig.cache
