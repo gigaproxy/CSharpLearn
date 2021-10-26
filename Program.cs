@@ -10,7 +10,6 @@ namespace CSharpLearn
             int count = 0;
             Console.WriteLine("Введите пятизначное число:");
             string numberString = Console.ReadLine();
-            Console.WriteLine($"Ваше число: {numberString}");
             int number = int.Parse(numberString);
             int i = number;
             foreach (char c in i.ToString())
